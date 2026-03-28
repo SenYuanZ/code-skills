@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "brainstorming": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "computedHash": "f483c304fcde060211ffae00f49bb728536e7e7613c99db45b5b924d9fc17243"
+    },
+    "code-reviewer": {
+      "source": "google-gemini/gemini-cli",
+      "sourceType": "github",
+      "computedHash": "270f0dd1d4c15a798bad5253a309cdc2056fe5322f99ba06ca22ce50581adc02"
+    }
+  }
+}
