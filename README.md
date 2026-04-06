@@ -55,4 +55,5 @@
 | presentation-creator | PPT制作专家                    |
 | meeting-notes        | 会议纪要自动整理                   |
 | email-writer         | 商务邮件撰写                     |
+| planning-with-files  | 建计划文件记录进度防失忆               |
 

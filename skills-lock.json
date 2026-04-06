@@ -11,6 +11,11 @@
       "sourceType": "github",
       "computedHash": "270f0dd1d4c15a798bad5253a309cdc2056fe5322f99ba06ca22ce50581adc02"
     },
+    "planning-with-files": {
+      "source": "othmanadi/planning-with-files",
+      "sourceType": "github",
+      "computedHash": "1e794c485308c0460d65225c46c5c0bf95f919a20078d3093341e355fc0fba34"
+    },
     "tailwind-design-system": {
       "source": "wshobson/agents",
       "sourceType": "github",
